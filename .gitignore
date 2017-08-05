@@ -1,7 +1,8 @@
 # OSX
 #
 .DS_Store
-
+#vscode
+.vscode/
 # Xcode
 #
 build/
@@ -51,3 +52,9 @@ buck-out/
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
+
+#babel
+.babelrc
+jsconfig.json
+yarn.lock
+package-lock.json
